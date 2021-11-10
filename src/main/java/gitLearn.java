@@ -6,5 +6,6 @@ public class gitLearn {
         list.add("aa");
         list.add("bb");
         System.out.println(list.get(1));
+        System.out.println("aaaa");
     }
 }
